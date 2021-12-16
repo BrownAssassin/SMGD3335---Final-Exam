@@ -12,8 +12,6 @@ public class PlayerMovement : MonoBehaviour
     float turnSmoothVelocity;
 
     private CinemachineFreeLook cinemachineFreeLook;
-    float cameraAngle;
-    float cameraAngleSpeed;
 
     private Joystick movementStick;
     private Joystick cameraStick;

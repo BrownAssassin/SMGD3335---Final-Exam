@@ -87,8 +87,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   characterController: {fileID: 4728128931507179006}
-  speed: 6
-  turnSmoothTime: 0.1
   photonView: {fileID: 4728128931507179004}
 --- !u!1001 &5504422400632827672
 PrefabInstance:
